@@ -1,0 +1,59 @@
+/**
+ * ==============================================================================
+ * Copyright (c) 2026 Kishan Sah. All Rights Reserved.
+ *
+ * PROPRIETARY & CONFIDENTIAL NOTICE:
+ * This software, source code, and associated documentation are the proprietary
+ * property of Kishan Sah. Unauthorized copying, distribution, modification,
+ * reproduction, or reverse engineering of this project via any medium is
+ * strictly prohibited without explicit prior written permission from Kishan Sah.
+ *
+ * Founder & Author: Kishan Sah
+ * LinkedIn: https://www.linkedin.com/in/kishan-sah-b97a73315/
+ * ==============================================================================
+ */
+
+// const CACHE_NAME = "version-1";
+// const urlsToCache = [ 'index.html', 'offline.html' ];
+
+// const self = this;
+
+// // Install SW
+// self.addEventListener('install', (event) => {
+//     event.waitUntil(
+//         caches.open(CACHE_NAME)
+//             .then((cache) => {
+//                 console.log('Opened cache');
+
+//                 return cache.addAll(urlsToCache);
+//             })
+//     )
+// });
+
+// // Listen for requests
+// self.addEventListener('fetch', (event) => {
+//     event.respondWith(
+//         caches.match(event.request)
+//             .then(() => {
+//                 return fetch(event.request) 
+//                     .catch(() => caches.match('offline.html'))
+//             })
+//     )
+// });
+
+// // Activate the SW
+// self.addEventListener('activate', (event) => {
+//     const cacheWhitelist = [];
+//     cacheWhitelist.push(CACHE_NAME);
+
+//     event.waitUntil(
+//         caches.keys().then((cacheNames) => Promise.all(
+//             cacheNames.map((cacheName) => {
+//                 if(!cacheWhitelist.includes(cacheName)) {
+//                     return caches.delete(cacheName);
+//                 }
+//             })
+//         ))
+            
+//     )
+// });

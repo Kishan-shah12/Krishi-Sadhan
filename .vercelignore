@@ -1,0 +1,13 @@
+# Files to ignore when deploying to Vercel
+.git
+.github
+*.md
+!README.md
+.prettierignore
+.prettierrc.json
+Accessibility.md
+Code Quality.md
+Efficiency.md
+Problem Statement Alignment.md
+Security.md
+Testing.md

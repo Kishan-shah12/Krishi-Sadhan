@@ -1,0 +1,28 @@
+/**
+ * ==============================================================================
+ * Copyright (c) 2026 Kishan Sah. All Rights Reserved.
+ *
+ * PROPRIETARY & CONFIDENTIAL NOTICE:
+ * This stylesheet and design are the proprietary property of Kishan Sah.
+ * Unauthorized copying, distribution, or reproduction of these styles or code
+ * is strictly prohibited without explicit prior written permission from Kishan Sah.
+ *
+ * Founder & Author: Kishan Sah
+ * LinkedIn: https://www.linkedin.com/in/kishan-sah-b97a73315/
+ * ==============================================================================
+ */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  top: 0px !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
