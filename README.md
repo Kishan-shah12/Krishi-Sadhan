@@ -2,12 +2,26 @@
 
 > **Farmer's First Choice** — A Peer-to-Peer Agricultural Equipment Sharing & Rental Aggregation Platform.
 
+[![Watch Video Demo](https://img.shields.io/badge/YouTube-Watch%20Video%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/VO9LX2Ts0bk?si=K2o7Zo3_z16ssm4b)
 [![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](./LICENSE)
 [![Founder: Kishan Sah](https://img.shields.io/badge/Founder-Kishan%20Sah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kishan-sah-b97a73315/)
 [![Tech Stack: React 17](https://img.shields.io/badge/Frontend-React%2017-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![State: Redux](https://img.shields.io/badge/State-Redux-764ABC?style=for-the-badge&logo=redux)](https://redux.js.org/)
 [![Styling: Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Database: Firebase](https://img.shields.io/badge/Database-Firebase%20Firestore-FFCA28?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+
+---
+
+## 📺 Project Video Demonstration
+
+<div align="center">
+
+[![Watch Krishi Sadhan Project Demo](https://img.youtube.com/vi/VO9LX2Ts0bk/hqdefault.jpg)](https://youtu.be/VO9LX2Ts0bk?si=K2o7Zo3_z16ssm4b)
+
+### 🎬 **[▶️ Click Here to Watch Full Demo Video on YouTube](https://youtu.be/VO9LX2Ts0bk?si=K2o7Zo3_z16ssm4b)**
+**Direct Video Link:** [https://youtu.be/VO9LX2Ts0bk?si=K2o7Zo3_z16ssm4b](https://youtu.be/VO9LX2Ts0bk?si=K2o7Zo3_z16ssm4b)
+
+</div>
 
 ---
 
